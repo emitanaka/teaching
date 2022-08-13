@@ -1,0 +1,6 @@
+---
+title: Wild Caught Data
+---
+
+
+* [Australian Census](monash-wcd/lecture-04.html)

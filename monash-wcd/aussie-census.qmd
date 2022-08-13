@@ -1,0 +1,14 @@
+---
+title: Australian Census
+last: "2022-S1"
+date: 2022-03-01
+format: html
+html: '[<i class="fa-solid fa-file-pdf"></i>](monash-wcd/2022/lecture-04.html#2)'
+pdf: '[<i class="fa-solid fa-file-pdf"></i>](monash-wcd/2022/lecture-04.pdf)'
+---
+
+
+<iframe width="600px" src="2022/lecture-04.html#2" height="450px"></iframe>
+
+
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="237 147 502 441" width="502" height="441">
+  <defs>
+    <font-face font-family="Arial Black" font-size="29" panose-1="2 11 10 4 2 1 2 2 2 4" units-per-em="1000" underline-position="-125" underline-thickness="60.058594" slope="0" x-height="524.41406" cap-height="721.6797" ascent="1100.586" descent="-309.5703" font-weight="800">
+      <font-face-src>
+        <font-face-name name="Arial-Black"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial Black" font-size="20" panose-1="2 11 10 4 2 1 2 2 2 4" units-per-em="1000" underline-position="-125" underline-thickness="60.058594" slope="0" x-height="524.41406" cap-height="721.6797" ascent="1100.586" descent="-309.5703" font-weight="800">
+      <font-face-src>
+        <font-face-name name="Arial-Black"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Roboto" font-size="20" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="927.7344" descent="-244.14062" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.17.5\n2022-08-01 04:13:56 +0000</metadata>
+  <g id="venn-diagram" stroke="none" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1">
+    <title>venn-diagram</title>
+    <g id="venn-diagram_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_45">
+        <g id="Graphic_36">
+          <ellipse cx="549.25" cy="394.25" rx="134.750215317281" ry="124.250198539311" fill="#0096ff"/>
+          <ellipse cx="549.25" cy="394.25" rx="134.750215317281" ry="124.250198539311" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+        <g id="Graphic_35">
+          <ellipse cx="374.25" cy="389.25" rx="134.75021531728" ry="124.250198539311" fill="#ffd579"/>
+          <ellipse cx="374.25" cy="389.25" rx="134.75021531728" ry="124.250198539311" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+        <g id="Graphic_34">
+          <ellipse cx="461.25" cy="273.75" rx="134.75021531728" ry="124.250198539311" fill="#f26077"/>
+          <ellipse cx="461.25" cy="273.75" rx="134.75021531728" ry="124.250198539311" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+        <g id="Graphic_29">
+          <path d="M 464.9162 299.3289 C 461.13404 302.13402 457.478 305.15508 453.96747 308.39208 C 401.3441 356.9147 401.3441 435.5853 453.96747 484.1079 C 455.47977 485.5024 457.01907 486.8568 458.5838 488.1711 C 462.36596 485.366 466.022 482.3449 469.53253 479.1079 C 522.1559 430.5853 522.1559 351.9147 469.53253 303.39208 C 468.02023 301.9976 466.48093 300.64323 464.9162 299.3289 Z" fill="#68bc36"/>
+          <path d="M 464.9162 299.3289 C 461.13404 302.13402 457.478 305.15508 453.96747 308.39208 C 401.3441 356.9147 401.3441 435.5853 453.96747 484.1079 C 455.47977 485.5024 457.01907 486.8568 458.5838 488.1711 C 462.36596 485.366 466.022 482.3449 469.53253 479.1079 C 522.1559 430.5853 522.1559 351.9147 469.53253 303.39208 C 468.02023 301.9976 466.48093 300.64323 464.9162 299.3289 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+        <g id="Graphic_18">
+          <path d="M 326.5022 273.02917 C 326.30186 305.06732 339.45696 337.1633 365.96747 361.6079 C 404.6379 397.26527 460.96454 406.71957 508.9978 389.97083 C 509.19814 357.9327 496.04304 325.8367 469.53253 301.39208 C 430.8621 265.73473 374.53546 256.28043 326.5022 273.02917 Z" fill="#ff914d"/>
+          <path d="M 326.5022 273.02917 C 326.30186 305.06732 339.45696 337.1633 365.96747 361.6079 C 404.6379 397.26527 460.96454 406.71957 508.9978 389.97083 C 509.19814 357.9327 496.04304 325.8367 469.53253 301.39208 C 430.8621 265.73473 374.53546 256.28043 326.5022 273.02917 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+        <g id="Graphic_25">
+          <path d="M 596.93365 278.66285 C 549.1346 262.4213 493.3527 271.99772 454.96747 307.39208 C 429.73516 330.6581 416.60145 360.85546 415.56635 391.33715 C 463.3654 407.5787 519.1473 398.00228 557.53253 362.6079 C 582.76484 339.3419 595.89855 309.14454 596.93365 278.66285 Z" fill="#9662d0"/>
+          <path d="M 596.93365 278.66285 C 549.1346 262.4213 493.3527 271.99772 454.96747 307.39208 C 429.73516 330.6581 416.60145 360.85546 415.56635 391.33715 C 463.3654 407.5787 519.1473 398.00228 557.53253 362.6079 C 582.76484 339.3419 595.89855 309.14454 596.93365 278.66285 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+        <g id="Graphic_11">
+          <path d="M 463.9162 298.3289 C 460.13404 301.13402 456.478 304.15508 452.96747 307.39208 C 427.73516 330.6581 414.60145 360.85546 413.56635 391.33715 C 443.9909 401.67505 477.64967 401.55294 507.9978 390.97083 C 508.19814 358.9327 495.04304 326.8367 468.53253 302.39208 C 467.02023 300.9976 465.48093 299.64323 463.9162 298.3289 Z" fill="black"/>
+          <path d="M 463.9162 298.3289 C 460.13404 301.13402 456.478 304.15508 452.96747 307.39208 C 427.73516 330.6581 414.60145 360.85546 413.56635 391.33715 C 443.9909 401.67505 477.64967 401.55294 507.9978 390.97083 C 508.19814 358.9327 495.04304 326.8367 468.53253 302.39208 C 467.02023 300.9976 465.48093 299.64323 463.9162 298.3289 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+        <g id="Graphic_37">
+          <text transform="translate(376.5 172)" fill="black">
+            <tspan font-family="Arial Black" font-size="29" font-weight="800" fill="black" x="53.172974" y="32">Data </tspan>
+            <tspan font-family="Arial Black" font-size="29" font-weight="800" fill="black" x="22.8844" y="73">Analysis</tspan>
+          </text>
+        </g>
+        <g id="Graphic_38">
+          <text transform="translate(509.5649 476.2557) rotate(-42.601145)" fill="black">
+            <tspan font-family="Arial Black" font-size="29" font-weight="800" fill="black" x="40.612915" y="32">Visual</tspan>
+          </text>
+        </g>
+        <g id="Graphic_39">
+          <text transform="translate(283.56406 336.23527) rotate(46.96897)" fill="black">
+            <tspan font-family="Arial Black" font-size="29" font-weight="800" fill="black" x="15.66272" y="32">Narrative</tspan>
+          </text>
+        </g>
+        <g id="Graphic_40">
+          <text transform="translate(322.5 285.5)" fill="black">
+            <tspan font-family="Arial Black" font-size="20" font-weight="800" fill="black" x="29.188477" y="22">Explain</tspan>
+          </text>
+        </g>
+        <g id="Graphic_41">
+          <text transform="translate(465.5 285.5)" fill="black">
+            <tspan font-family="Arial Black" font-size="20" font-weight="800" fill="black" x="18.080078" y="22">Enlighten</tspan>
+          </text>
+        </g>
+        <g id="Graphic_42">
+          <text transform="translate(392 404.00006)" fill="black">
+            <tspan font-family="Arial Black" font-size="20" font-weight="800" fill="black" x="29.017578" y="22">Engage</tspan>
+          </text>
+        </g>
+        <g id="Graphic_43">
+          <text transform="translate(391.91817 345)" fill="white">
+            <tspan font-family="Arial Black" font-size="20" font-weight="800" fill="white" x="28.62207" y="22">Change</tspan>
+          </text>
+        </g>
+        <g id="Graphic_44">
+          <text transform="translate(257 534.5)" fill="black">
+            <tspan font-family="Roboto" font-size="20" font-weight="400" fill="black" x="0" y="19">Figure inspired by Spencer (2022) Data in Wonderland</tspan>
+            <tspan font-family="Roboto" font-size="20" font-weight="400" fill="black" x="294.13086" y="43">Drawn by @statsgen</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

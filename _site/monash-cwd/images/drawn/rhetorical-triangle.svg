@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="393 484 872 528" width="872" height="528">
+  <defs>
+    <font-face font-family="Arial Black" font-size="28" panose-1="2 11 10 4 2 1 2 2 2 4" units-per-em="1000" underline-position="-125" underline-thickness="60.058594" slope="0" x-height="524.41406" cap-height="721.6797" ascent="1100.586" descent="-309.5703" font-weight="800">
+      <font-face-src>
+        <font-face-name name="Arial-Black"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="28" panose-1="2 11 7 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="104.98047" slope="0" x-height="518.5547" cap-height="715.8203" ascent="905.2734" descent="-211.91406" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Arial-BoldMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="34" panose-1="2 11 7 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="104.98047" slope="0" x-height="518.5547" cap-height="715.8203" ascent="905.2734" descent="-211.91406" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Arial-BoldMT"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.17.5\n2022-08-01 04:13:56 +0000</metadata>
+  <g id="rhetorical-triangle" stroke="none" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1">
+    <title>rhetorical-triangle</title>
+    <g id="rhetorical-triangle_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 674.1338 901.9476 L 839.4113 585.9514 L 1014.9864 896.3441 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+      <g id="Graphic_3">
+        <text transform="translate(782.5 489)" fill="#235e00">
+          <tspan font-family="Arial Black" font-size="28" font-weight="800" fill="#235e00" x="0" y="31">ETHOS</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(539 918)" fill="#b1001c">
+          <tspan font-family="Arial Black" font-size="28" font-weight="800" fill="#b1001c" x="0" y="31">PATHOS</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(1027.5 918)" fill="#003776">
+          <tspan font-family="Arial Black" font-size="28" font-weight="800" fill="#003776" x="0" y="31">LOGOS</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <text transform="translate(556.11426 539)" fill="#235e00">
+          <tspan font-family="Arial" font-size="28" font-weight="700" fill="#235e00" x="3.8896484" y="25">credibility, reliability, authority, reputation </tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <text transform="translate(398.0791 975)" fill="#b1001c">
+          <tspan font-family="Arial" font-size="28" font-weight="700" fill="#b1001c" x="0" y="25">emotion, imagination, motivation</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <text transform="translate(951.4795 975)" fill="#003776">
+          <tspan font-family="Arial" font-size="28" font-weight="700" fill="#003776" x="0" y="25">logic, reason, evidence</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <text transform="translate(758.8534 767.3592)" fill="black">
+          <tspan font-family="Arial" font-size="34" font-weight="700" fill="black" x="0" y="31">Rhetorical</tspan>
+          <tspan font-family="Arial" font-size="34" font-weight="700" fill="black" x="17.94629" y="70.112305">Triangle</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="570 464 1547 710" width="1547" height="710">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="60" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="40" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Fira Code" font-size="40" panose-1="2 11 8 9 5 0 0 2 0 4" units-per-em="1000" underline-position="-38.46154" underline-thickness="25.641026" slope="0" x-height="544.6154" cap-height="710.7692" ascent="923.0804" descent="-307.69348" font-weight="700">
+      <font-face-src>
+        <font-face-name name="FiraCode-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Fira Code" font-size="40" panose-1="2 11 8 9 5 0 0 2 0 4" units-per-em="1000" underline-position="-51.26953" underline-thickness="25.634766" slope="0" x-height="540" cap-height="706.15385" ascent="923.0804" descent="-307.69348" font-weight="400">
+      <font-face-src>
+        <font-face-name name="FiraCode-Light_Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="black">
+      <g>
+        <path d="M 2.4 0 L 0 -.9 L 0 .9 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="white">
+      <g>
+        <path d="M 2.5142857 0 L 0 -.9428571 L 0 .9428571 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.17.5\n2022-08-01 04:13:56 +0000</metadata>
+  <g id="shiny-server" stroke="none" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1">
+    <title>shiny-server</title>
+    <g id="shiny-server_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_7">
+        <path d="M 1279 465 L 2101 465 C 2109.2843 465 2116 471.71573 2116 480 L 2116 1158 C 2116 1166.2843 2109.2843 1173 2101 1173 L 1279 1173 C 1270.7157 1173 1264 1166.2843 1264 1158 L 1264 480 C 1264 471.71573 1270.7157 465 1279 465 Z" fill="#333"/>
+        <path d="M 1279 465 L 2101 465 C 2109.2843 465 2116 471.71573 2116 480 L 2116 1158 C 2116 1166.2843 2109.2843 1173 2101 1173 L 1279 1173 C 1270.7157 1173 1264 1166.2843 1264 1158 L 1264 480 C 1264 471.71573 1270.7157 465 1279 465 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2">
+        <rect x="570" y="614" width="512" height="512" id="path"/>
+        <clipPath id="clip_path">
+          <use xl:href="#path"/>
+        </clipPath>
+        <g clip-path="url(#clip_path)">
+          <image xl:href="image1.tiff" width="512" height="512" transform="translate(570 614)"/>
+        </g>
+      </g>
+      <g id="Graphic_3">
+        <rect x="614.5" y="712.5" width="187" height="187" id="path_2"/>
+        <clipPath id="clip_path_2">
+          <use xl:href="#path_2"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_2)">
+          <image xl:href="image2.tiff" width="512" height="512" transform="translate(614.5 712.5) scale(.36523438)"/>
+        </g>
+      </g>
+      <g id="Graphic_5">
+        <rect x="849" y="719.5" width="180" height="180" id="path_3"/>
+        <clipPath id="clip_path_3">
+          <use xl:href="#path_3"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_3)">
+          <image xl:href="image4.tiff" width="512" height="512" transform="translate(849 719.5) scale(.3515625)"/>
+        </g>
+      </g>
+      <g id="Graphic_6">
+        <rect x="1343" y="503" width="151.60784" height="117.47514" id="path_4"/>
+        <clipPath id="clip_path_4">
+          <use xl:href="#path_4"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_4)">
+          <image xl:href="image5.tiff" width="724" height="561" transform="translate(1343 503) scale(.2094031)"/>
+        </g>
+      </g>
+      <g id="Graphic_8">
+        <text transform="translate(1336 1082)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="60" font-weight="700" fill="white" x="0" y="59">Shiny Server</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <text transform="translate(1574 537.1574)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="40" font-weight="700" fill="white" x="5115908e-19" y="39">Shiny App</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <path d="M 1484 644 L 1907 644 C 1917.4934 644 1926 652.5066 1926 663 L 1926 805 C 1926 815.4934 1917.4934 824 1907 824 L 1484 824 C 1473.5066 824 1465 815.4934 1465 805 L 1465 663 C 1465 652.5066 1473.5066 644 1484 644 Z" fill="white"/>
+        <path d="M 1484 644 L 1907 644 C 1917.4934 644 1926 652.5066 1926 663 L 1926 805 C 1926 815.4934 1917.4934 824 1907 824 L 1484 824 C 1473.5066 824 1465 815.4934 1465 805 L 1465 663 C 1465 652.5066 1473.5066 644 1484 644 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1470 655.5)" fill="black">
+          <tspan font-family="Fira Code" font-size="40" font-weight="700" fill="black" x="200.88462" y="47">ui</tspan>
+          <tspan font-family="Fira Code" font-size="40" font-weight="400" fill="black" x="53.19231" y="96">numericInput()</tspan>
+          <tspan font-family="Fira Code" font-size="40" font-weight="400" fill="black" x="77.80769" y="145">plotOutput()</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <path d="M 1484 877.2024 L 1907 877.2024 C 1917.4934 877.2024 1926 885.709 1926 896.2024 L 1926 1038.2024 C 1926 1048.6958 1917.4934 1057.2024 1907 1057.2024 L 1484 1057.2024 C 1473.5066 1057.2024 1465 1048.6958 1465 1038.2024 L 1465 896.2024 C 1465 885.709 1473.5066 877.2024 1484 877.2024 Z" fill="white"/>
+        <path d="M 1484 877.2024 L 1907 877.2024 C 1917.4934 877.2024 1926 885.709 1926 896.2024 L 1926 1038.2024 C 1926 1048.6958 1917.4934 1057.2024 1907 1057.2024 L 1484 1057.2024 C 1473.5066 1057.2024 1465 1048.6958 1465 1038.2024 L 1465 896.2024 C 1465 885.709 1473.5066 877.2024 1484 877.2024 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1470 913.2024)" fill="black">
+          <tspan font-family="Fira Code" font-size="40" font-weight="700" fill="black" x="151.65385" y="47">server</tspan>
+          <tspan font-family="Fira Code" font-size="40" font-weight="400" fill="black" x="77.80769" y="96">renderPlot()</tspan>
+        </text>
+      </g>
+      <g id="Line_15">
+        <line x1="1112" y1="779" x2="1209.7796" y2="778.8957" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="Line_16">
+        <line x1="1234.3398" y1="862" x2="1136.5602" y2="862.0542" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="Line_17">
+        <path d="M 1926 732.9384 L 2022.7247 732.4929 C 2027.134 732.4726 2030.7284 736.0239 2030.7613 740.4331 L 2032.396 959.476 C 2032.429 963.8941 2028.874 967.5025 2024.4559 967.5355 C 2024.4333 967.5356 2024.4107 967.5357 2024.388 967.5357 L 1953.9 967.4643" marker-end="url(#FilledArrow_Marker_2)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Graphic_18">
+        <text transform="translate(742.72 1094.2596)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="60" font-weight="700" fill="black" x="6536993e-19" y="59">Client</tspan>
+        </text>
+      </g>
+      <g id="Line_19">
+        <path d="M 1465 966.9683 L 1366.8241 966.8686 C 1362.4058 966.8641 1358.8278 963.2788 1358.8322 958.8605 C 1358.8323 958.8431 1358.8323 958.8258 1358.8325 958.8085 L 1360.4665 741.4782 C 1360.4996 737.0791 1364.0784 733.5321 1368.4776 733.5383 L 1437.1 733.6352" marker-end="url(#FilledArrow_Marker_2)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Graphic_20">
+        <rect x="1275.8564" y="813.5888" width="167.6923" height="59" fill="white"/>
+        <text transform="translate(1285.8564 818.5888)" fill="black">
+          <tspan font-family="Fira Code" font-size="40" font-weight="400" fill="black" x="4121148e-19" y="37">output</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <rect x="1960.0413" y="820.6037" width="143.07692" height="59" fill="white"/>
+        <text transform="translate(1970.0413 825.6037)" fill="black">
+          <tspan font-family="Fira Code" font-size="40" font-weight="400" fill="black" x="0" y="37">input</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

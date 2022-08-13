@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="324 293 880 566" width="880" height="566">
+  <defs>
+    <font-face font-family="Arial Black" font-size="40" panose-1="2 11 10 4 2 1 2 2 2 4" units-per-em="1000" underline-position="-125" underline-thickness="60.058594" slope="0" x-height="524.41406" cap-height="721.6797" ascent="1100.586" descent="-309.5703" font-weight="800">
+      <font-face-src>
+        <font-face-name name="Arial-Black"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Roboto" font-size="24" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="927.7344" descent="-244.14062" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Roboto-Bold"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="black">
+      <g>
+        <path d="M 2.6666667 0 L 0 -1 L 0 1 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-4 -2 5 4" markerWidth="5" markerHeight="4" color="black">
+      <g>
+        <path d="M -2.6666667 0 L 0 1 L 0 -1 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Arial Black" font-size="20" panose-1="2 11 10 4 2 1 2 2 2 4" units-per-em="1000" underline-position="-125" underline-thickness="60.058594" slope="0" x-height="524.41406" cap-height="721.6797" ascent="1100.586" descent="-309.5703" font-weight="800">
+      <font-face-src>
+        <font-face-name name="Arial-Black"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Roboto" font-size="20" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="927.7344" descent="-244.14062" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.17.5\n2022-08-01 04:13:56 +0000</metadata>
+  <g id="transactional-communication-model" stroke="none" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1">
+    <title>transactional-communication-model</title>
+    <g id="transactional-communication-model_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_10">
+        <path d="M 1130.241 425.3968 C 1225.9198 505.259 1225.9198 634.741 1130.241 714.6032 C 1034.5626 794.4657 879.4374 794.4657 783.759 714.6032 C 688.0802 634.741 688.0802 505.259 783.759 425.3968 C 879.4374 345.53426 1034.5626 345.53426 1130.241 425.3968" fill="#dead26"/>
+        <path d="M 1130.241 425.3968 C 1225.9198 505.259 1225.9198 634.741 1130.241 714.6032 C 1034.5626 794.4657 879.4374 794.4657 783.759 714.6032 C 688.0802 634.741 688.0802 505.259 783.759 425.3968 C 879.4374 345.53426 1034.5626 345.53426 1130.241 425.3968" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 744.241 425.3968 C 839.9198 505.259 839.9198 634.741 744.241 714.6032 C 648.5626 794.4657 493.4374 794.4657 397.75903 714.6032 C 302.08016 634.741 302.08016 505.259 397.75903 425.3968 C 493.4374 345.53426 648.5626 345.53426 744.241 425.3968" fill="#00bfc0"/>
+        <path d="M 744.241 425.3968 C 839.9198 505.259 839.9198 634.741 744.241 714.6032 C 648.5626 794.4657 493.4374 794.4657 397.75903 714.6032 C 302.08016 634.741 302.08016 505.259 397.75903 425.3968 C 493.4374 345.53426 648.5626 345.53426 744.241 425.3968" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Graphic_2">
+        <circle cx="483" cy="572.5" r="75.0001198426422" fill="white"/>
+        <circle cx="483" cy="572.5" r="75.0001198426422" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        <text transform="translate(428 544.5)" fill="black">
+          <tspan font-family="Arial Black" font-size="40" font-weight="800" fill="black" x="39.44336" y="44">A</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <circle cx="1076" cy="572.5" r="75.0001198426422" fill="white"/>
+        <circle cx="1076" cy="572.5" r="75.0001198426422" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        <text transform="translate(1021 544.5)" fill="black">
+          <tspan font-family="Arial Black" font-size="40" font-weight="800" fill="black" x="39.44336" y="44">B</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(590.6465 603.25)" fill="black">
+          <tspan font-family="Roboto" font-size="24" font-weight="700" fill="black" x="0" y="22">Decode</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <text transform="translate(872.6498 518.5)" fill="black">
+          <tspan font-family="Roboto" font-size="24" font-weight="700" fill="black" x="0" y="22">Decode</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <path d="M 764 443.99705 C 694.6665 517.7961 694.6665 622.2039 764 696.00295 C 833.3335 622.2039 833.3335 517.7961 764 443.99705 Z" fill="black"/>
+      </g>
+      <g id="Graphic_14">
+        <text transform="translate(474.5371 688)" fill="black">
+          <tspan font-family="Roboto" font-size="24" font-weight="700" fill="black" x="0" y="22">A’s environment</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <text transform="translate(871.0137 688)" fill="black">
+          <tspan font-family="Roboto" font-size="24" font-weight="700" fill="black" x="0" y="22">B’s environment</tspan>
+        </text>
+      </g>
+      <g id="Graphic_19">
+        <text transform="translate(579.351 518.5)" fill="black">
+          <tspan font-family="Roboto" font-size="24" font-weight="700" fill="black" x="0" y="22">Responds</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <text transform="translate(859.7182 603.25)" fill="black">
+          <tspan font-family="Roboto" font-size="24" font-weight="700" fill="black" x="0" y="22">Responds</tspan>
+        </text>
+      </g>
+      <g id="Line_21">
+        <line x1="584.8961" y1="571.5991" x2="740.8595" y2="570.22014" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Line_22">
+        <line x1="790.6577" y1="570.20064" x2="974.1033" y2="571.6789" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Graphic_25">
+        <title>Mark Unread</title>
+        <path d="M 780 554 L 748 554 C 745.8 554 744.02 555.8 744.02 558 L 744 582 C 744 584.2 745.8 586 748 586 L 780 586 C 782.2 586 784 584.2 784 582 L 784 558 C 784 555.8 782.2 554 780 554 Z M 780 562 L 764 572 L 748 562 L 748 558 L 764 568 L 780 558 L 780 562 Z" fill="white"/>
+      </g>
+      <g id="Line_28">
+        <path d="M 630 347 C 623.69745 354.0092 600 377.36735 600 377.36735 C 600 377.36735 632.7841 385.0499 633.36735 390.63265 C 633.9506 396.21543 607.9193 417 607.9193 417 C 607.9193 417 631.9193 436 631.9193 436 C 631.9193 436 609 451 609 451 C 609 451 624.0409 460.4573 631.26315 480.3795" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Line_29">
+        <path d="M 885.3328 331 C 879.0302 338.0092 946.9388 358.16327 946.9388 358.16327 C 946.9388 358.16327 892.2739 381.1519 892.8571 386.7347 C 893.4404 392.31747 936.9921 397.12245 936.9921 397.12245 C 936.9921 397.12245 904.0816 423.4694 904.0816 423.4694 C 904.0816 423.4694 936.7347 439.7959 936.7347 439.7959 C 936.7347 439.7959 926.4948 446.4381 920.4964 464.4602" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Graphic_30">
+        <text transform="translate(609.582 310)" fill="black">
+          <tspan font-family="Arial Black" font-size="20" font-weight="800" fill="black" x="0" y="22">Noise</tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <text transform="translate(859.7182 298)" fill="black">
+          <tspan font-family="Arial Black" font-size="20" font-weight="800" fill="black" x="0" y="22">Noise</tspan>
+        </text>
+      </g>
+      <g id="Graphic_32">
+        <text transform="translate(452 805.5)" fill="black">
+          <tspan font-family="Roboto" font-size="20" font-weight="400" fill="black" x="0" y="19">Figure inspired by Adler and Rodman (2006) Understanding Human Communication</tspan>
+          <tspan font-family="Roboto" font-size="20" font-weight="400" fill="black" x="557.8906" y="43">Drawn by @statsgen</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

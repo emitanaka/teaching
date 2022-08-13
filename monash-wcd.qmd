@@ -1,0 +1,18 @@
+---
+title: Wild Caught Data
+listing: 
+  type: table
+  sort: "date desc"
+  fields: [title, html, pdf, last]
+  contents:
+    - "monash-wcd/*.qmd"
+---
+
+
+
+* [Australian Census](monash-wcd/2022/lecture-04.html) [<i class="fa-solid fa-file-pdf"></i>](monash-wcd/2022/lecture-04.pdf) [Last taught in 2022 S1]{.last}
+* [Australian Election](monash-wcd/2022/lecture-05.html)  [<i class="fa-solid fa-file-pdf"></i>](monash-wcd/2022/lecture-05.pdf) [Last taught in 2022 S1]{.last}
+* [Combining Australian Census and Election Data](monash-wcd/2022/lecture-06.html)  [<i class="fa-solid fa-file-pdf"></i>](monash-wcd/2022/lecture-06.pdf) [Last taught in 2022 S1]{.last}
+* [Introduction to Data Collection Methods](monash-wcd/2021/lecture-01.html) [Last taught in 2021 S1]{.last}
+* [Synthetic and Simulated Data](monash-wcd/2020/week08-PISA.html)  [<i class="fa-solid fa-file-pdf"></i>](monash-wcd/2020/week08-PISA.pdf) [Last taught in 2020 S1]{.last}
+* [The Language of Designed Experiments](monash-wcd/2020/week09-DoE.html)  [<i class="fa-solid fa-file-pdf"></i>](monash-wcd/2020/week09-DoE.pdf) [Last taught in 2020 S1]{.last}

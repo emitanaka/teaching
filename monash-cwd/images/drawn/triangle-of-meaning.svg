@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="544 526 609 536" width="609" height="536">
+  <defs>
+    <font-face font-family="Arial Black" font-size="28" panose-1="2 11 10 4 2 1 2 2 2 4" units-per-em="1000" underline-position="-125" underline-thickness="60.058594" slope="0" x-height="524.41406" cap-height="721.6797" ascent="1100.586" descent="-309.5703" font-weight="800">
+      <font-face-src>
+        <font-face-name name="Arial-Black"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Roboto" font-size="20" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="927.7344" descent="-244.14062" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="34" panose-1="2 11 7 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="104.98047" slope="0" x-height="518.5547" cap-height="715.8203" ascent="905.2734" descent="-211.91406" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Arial-BoldMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="20" panose-1="2 11 7 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="104.98047" slope="0" x-height="518.5547" cap-height="715.8203" ascent="905.2734" descent="-211.91406" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Arial-BoldMT"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.17.5\n2022-08-01 04:13:56 +0000</metadata>
+  <g id="triangle-of-meaning" stroke="none" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1">
+    <title>triangle-of-meaning</title>
+    <g id="triangle-of-meaning_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_3">
+        <text transform="translate(675.4896 531.5)" fill="#235e00">
+          <tspan font-family="Arial Black" font-size="28" font-weight="800" fill="#235e00" x="0" y="31">Thought or Reference</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(549 918)" fill="#b1001c">
+          <tspan font-family="Arial Black" font-size="28" font-weight="800" fill="#b1001c" x="0" y="31">Symbol</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(1015.9404 918)" fill="#003776">
+          <tspan font-family="Arial Black" font-size="28" font-weight="800" fill="#003776" x="0" y="31">Referent</tspan>
+        </text>
+      </g>
+      <g id="Line_11">
+        <line x1="830.5" y1="597.5" x2="621.5565" y2="913" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      </g>
+      <g id="Line_12">
+        <line x1="831.5" y1="598.5" x2="1063.2715" y2="913" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      </g>
+      <g id="Line_13">
+        <line x1="666" y1="938" x2="1010.9404" y2="938" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="9.0,27.0" stroke-width="9"/>
+      </g>
+      <g id="Graphic_14">
+        <text transform="translate(675.4896 1009)" fill="black">
+          <tspan font-family="Roboto" font-size="20" font-weight="400" fill="black" x="0" y="19">Ogden and Richards (1923) The Meaning of Meaning</tspan>
+          <tspan font-family="Roboto" font-size="20" font-weight="400" fill="black" x="285.51758" y="43">Drawn by @statsgen</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <text transform="translate(751.308 767.3592)" fill="black">
+          <tspan font-family="Arial" font-size="34" font-weight="700" fill="black" x="4.7231445" y="31">Triangle of </tspan>
+          <tspan font-family="Arial" font-size="34" font-weight="700" fill="black" x="21.731445" y="70.112305">Meaning</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <text transform="translate(757.3154 958)" fill="black">
+          <tspan font-family="Arial" font-size="20" font-weight="700" fill="black" x="0" y="18">An implied relation</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
